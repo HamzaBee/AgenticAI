@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-ollama
+langchain-huggingface
+langchain-text-splitters
+langgraph
+tavily-python
+sentence-transformers
+python-dotenv
