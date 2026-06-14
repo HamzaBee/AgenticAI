@@ -1,0 +1,15 @@
+[project]
+name = "tp1-prompt"
+version = "0.1.0"
+description = "TP Ingenierie des Prompts"
+dependencies = [
+    "tiktoken",
+    "langchain-ollama",
+    "langchain-openai",
+    "langchain-groq",
+    "langchain-core",
+    "langchain-community",
+    "python-dotenv",
+    "pypdf",
+    "ipython",
+]

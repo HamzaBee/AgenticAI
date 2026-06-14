@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Sensitive data
+.env
+
+# VS Code
+.vscode/
+
+# Project specific
+uv.lock
+*.ipynb_checkpoints
