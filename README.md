@@ -9,6 +9,7 @@ This repository contains various TPs (Travaux Pratiques) related to Agentic AI a
 - `TP4_MCP/`: Exploring Model Context Protocol (MCP) with local and distant servers.
 - `TP5_LangGraph_Studio/`: Developing stateful agents using LangGraph Studio.
 - `TP6_état_contexte/`: Managing state and context in AI agents.
+- `TP7_Human_In_The_Loop/`: Implementing Human-in-the-Loop (HITL) patterns for agentic workflows.
 - `TP_chef_personnel/`: Personal Chef Agent project.
 
 ## Environment
