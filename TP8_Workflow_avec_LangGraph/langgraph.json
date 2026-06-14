@@ -1,0 +1,12 @@
+{
+  "graphs": {
+    "hello_graph": "./hello_graph.py:graph",
+    "two_step_workflow": "./two_step_workflow.py:graph",
+    "reducers_demo": "./reducers_demo.py:graph",
+    "message_state": "./message_state.py:graph",
+    "conditional_workflow": "./conditional_workflow.py:graph",
+    "workflow_loop": "./workflow_loop.py:graph"
+  },
+  "env": "../.env",
+  "dependencies": ["."]
+}

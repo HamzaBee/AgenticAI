@@ -10,6 +10,7 @@ This repository contains various TPs (Travaux Pratiques) related to Agentic AI a
 - `TP5_LangGraph_Studio/`: Developing stateful agents using LangGraph Studio.
 - `TP6_état_contexte/`: Managing state and context in AI agents.
 - `TP7_Human_In_The_Loop/`: Implementing Human-in-the-Loop (HITL) patterns for agentic workflows.
+- `TP8_Workflow_avec_LangGraph/`: Building advanced agentic workflows using LangGraph (loops, conditional logic, reducers).
 - `TP_chef_personnel/`: Personal Chef Agent project.
 
 ## Environment
