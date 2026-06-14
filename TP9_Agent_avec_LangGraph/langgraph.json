@@ -1,0 +1,8 @@
+{
+  "graphs": {
+    "agent_node": "./agent_node.py:agent",
+    "tp_agent": "./tp_agent.py:agent_studio"
+  },
+  "env": "../.env",
+  "dependencies": ["."]
+}
